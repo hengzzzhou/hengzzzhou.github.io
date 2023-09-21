@@ -1,0 +1,212 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>Cryptography and Cyber Security | Henggg's Blog</title><meta name="author" content="Heng Zhou,zhouheng@bupt.edu.cn"><meta name="copyright" content="Heng Zhou"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="Cryptography and Cyber SecurityBlock 1– Security and Cryptography• Introduction to security and Cryptography• Conventional Encryption• Public Key Cryptography A security system is typically introduced">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Cryptography and Cyber Security">
+<meta property="og:url" content="http://example.com/2023/09/21/Cryptography-and-Cyber-Security/index.html">
+<meta property="og:site_name" content="Henggg&#39;s Blog">
+<meta property="og:description" content="Cryptography and Cyber SecurityBlock 1– Security and Cryptography• Introduction to security and Cryptography• Conventional Encryption• Public Key Cryptography A security system is typically introduced">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://ts1.cn.mm.bing.net/th/id/R-C.7c63f859ea24a88c5b69702db56e8674?rik=Q5OiN1BLvyYVqA&riu=http%3a%2f%2fwww.xzylawyer.com%2fuploadfiles%2fpictures%2fnews%2f20191031132433_4580.jpg&ehk=qXX%2fibNZ3DF%2f63VlgdS9upDOoCUb3TnK60bRcL5noM0%3d&risl=&pid=ImgRaw&r=0">
+<meta property="article:published_time" content="2023-09-21T13:47:37.000Z">
+<meta property="article:modified_time" content="2023-09-21T13:53:13.335Z">
+<meta property="article:author" content="Heng Zhou">
+<meta property="article:tag" content="Cryptography and Cyber Security">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://ts1.cn.mm.bing.net/th/id/R-C.7c63f859ea24a88c5b69702db56e8674?rik=Q5OiN1BLvyYVqA&riu=http%3a%2f%2fwww.xzylawyer.com%2fuploadfiles%2fpictures%2fnews%2f20191031132433_4580.jpg&ehk=qXX%2fibNZ3DF%2f63VlgdS9upDOoCUb3TnK60bRcL5noM0%3d&risl=&pid=ImgRaw&r=0"><link rel="shortcut icon" href="https://cdn2.iconfinder.com/data/icons/letters-and-numbers-1/32/lowercase_letter_z_blue-1024.png"><link rel="canonical" href="http://example.com/2023/09/21/Cryptography-and-Cyber-Security/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: true,
+    post: true
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"limitCount":50,"languages":{"author":"作者: Heng Zhou","link":"链接: ","source":"来源: Henggg's Blog","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。"}},
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: true,
+  islazyload: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: 'Cryptography and Cyber Security',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: false,
+  postUpdate: '2023-09-21 21:53:13'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+    win.getCSS = (url,id = false) => new Promise((resolve, reject) => {
+      const link = document.createElement('link')
+      link.rel = 'stylesheet'
+      link.href = url
+      if (id) link.id = id
+      link.onerror = reject
+      link.onload = link.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        link.onload = link.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(link)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><link rel="preconnect" href="https://fonts.gstatic.com"> <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,300&display=swap" rel="stylesheet"><meta name="generator" content="Hexo 6.3.0"></head><body><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://th.bing.com/th/id/R.80c69b586c20082d00507234ca3c1e54?rik=aEyQ%2fLLqTP3Pig&amp;riu=http%3a%2f%2fimg2.woyaogexing.com%2f2017%2f07%2f25%2f03014856534aaf06!400x400_big.jpg&amp;ehk=61NidM%2fyS5uyoTfHEBTVXxRFFBV95YOjdumlHB5wdAU%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">19</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">38</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">22</div></a></div><hr class="custom-hr"/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/resume"><span> 简历</span></a></div><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://ts1.cn.mm.bing.net/th/id/R-C.7c63f859ea24a88c5b69702db56e8674?rik=Q5OiN1BLvyYVqA&amp;riu=http%3a%2f%2fwww.xzylawyer.com%2fuploadfiles%2fpictures%2fnews%2f20191031132433_4580.jpg&amp;ehk=qXX%2fibNZ3DF%2f63VlgdS9upDOoCUb3TnK60bRcL5noM0%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0')"><nav id="nav"><span id="blog-info"><a href="/" title="Henggg's Blog"><img class="site-icon" src="https://th.bing.com/th/id/R.80c69b586c20082d00507234ca3c1e54?rik=aEyQ%2fLLqTP3Pig&amp;riu=http%3a%2f%2fimg2.woyaogexing.com%2f2017%2f07%2f25%2f03014856534aaf06!400x400_big.jpg&amp;ehk=61NidM%2fyS5uyoTfHEBTVXxRFFBV95YOjdumlHB5wdAU%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0"/><span class="site-name">Henggg's Blog</span></a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/resume"><span> 简历</span></a></div><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">Cryptography and Cyber Security</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2023-09-21T13:47:37.000Z" title="发表于 2023-09-21 21:47:37">2023-09-21</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2023-09-21T13:53:13.335Z" title="更新于 2023-09-21 21:53:13">2023-09-21</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E7%AC%94%E8%AE%B0/">笔记</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E7%AC%94%E8%AE%B0/%E5%A4%A7%E4%B8%89/">大三</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/%E7%AC%94%E8%AE%B0/%E5%A4%A7%E4%B8%89/Cryptography-and-Cyber-Security/">Cryptography and Cyber Security</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="Cryptography and Cyber Security"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout hide-aside" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h1 id="Cryptography-and-Cyber-Security"><a href="#Cryptography-and-Cyber-Security" class="headerlink" title="Cryptography and Cyber Security"></a>Cryptography and Cyber Security</h1><h2 id="Block-1"><a href="#Block-1" class="headerlink" title="Block 1"></a>Block 1</h2><p>– Security and Cryptography<br>• Introduction to security and Cryptography<br>• Conventional Encryption<br>• Public Key Cryptography</p>
+<p>A security system is typically introduced to:<br>Deter, Prevent, Detect and Correct security violations of data transmission.</p>
+<h3 id="Security-Architecture"><a href="#Security-Architecture" class="headerlink" title="Security Architecture"></a>Security Architecture</h3><h4 id="Security-Attacks"><a href="#Security-Attacks" class="headerlink" title="Security Attacks"></a>Security Attacks</h4><p>– Actions involving the compromise of security info</p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230920191841593.png" alt="image-20230920191841593"></p>
+<h4 id="Security-Mechanisms"><a href="#Security-Mechanisms" class="headerlink" title="Security Mechanisms"></a>Security Mechanisms</h4><p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230920192139474.png" alt="image-20230920192139474"></p>
+<h4 id="Security-Services"><a href="#Security-Services" class="headerlink" title="Security Services"></a>Security Services</h4><p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230920192206728.png" alt="image-20230920192206728"></p>
+<h3 id="Terminology"><a href="#Terminology" class="headerlink" title="Terminology"></a>Terminology</h3><p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230920192235972.png" alt="image-20230920192235972"></p>
+<h3 id="Caesar-Code"><a href="#Caesar-Code" class="headerlink" title="Caesar Code"></a>Caesar Code</h3><p>Caesar cipher, is a stream cipher, that uses simple monoalphabetic substitution.<br>• It is very simple to break (his successor Augustus used a one shift key, perhaps he could not safely count  to three).</p>
+<h3 id="Polyalphabetic-Substitution-Vigenere-Cipher"><a href="#Polyalphabetic-Substitution-Vigenere-Cipher" class="headerlink" title="Polyalphabetic Substitution: Vigenère Cipher"></a>Polyalphabetic Substitution: Vigenère Cipher</h3><p>(a+b)mod26</p>
+<h3 id="Rotor-Encryption"><a href="#Rotor-Encryption" class="headerlink" title="Rotor Encryption"></a>Rotor Encryption</h3><h3 id="Transposition-The-Grille"><a href="#Transposition-The-Grille" class="headerlink" title="Transposition: The Grille"></a>Transposition: The Grille</h3><p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230920194020167.png" alt="image-20230920194020167"></p>
+<h3 id="Classification-of-Cryptographic-Systems"><a href="#Classification-of-Cryptographic-Systems" class="headerlink" title="Classification of Cryptographic Systems"></a>Classification of Cryptographic Systems</h3><p>Stream Ciphers</p>
+<p>One Time Pad</p>
+<p>Simple Block Cipher</p>
+<p>Playfair square</p>
+<img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230920195827468.png" alt="image-20230920195827468" style="zoom:50%;" />
+
+<img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230920200022276.png" alt="image-20230920200022276" style="zoom:50%;" />
+
+
+
+<h3 id="Security-of-conventional-encryption"><a href="#Security-of-conventional-encryption" class="headerlink" title="Security of conventional encryption"></a>Security of conventional encryption</h3><p>• Strong encryption algorithm<br>• Sender and receiver obtained the secret key in a<br>secure fashion<br><strong>• The key must be kept secure at all times</strong></p>
+<h3 id="Typical-Attack-Approaches"><a href="#Typical-Attack-Approaches" class="headerlink" title="Typical Attack Approaches"></a>Typical Attack Approaches</h3><p>Cryptanalysis Attacks:</p>
+<p>Brute-force Attacks:</p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230920204025740.png" alt="image-20230920204025740"></p>
+<h3 id="Conventional-Encryption"><a href="#Conventional-Encryption" class="headerlink" title="Conventional Encryption"></a>Conventional Encryption</h3><h4 id="Block-Ciphers"><a href="#Block-Ciphers" class="headerlink" title="Block Ciphers"></a>Block Ciphers</h4><p>Feistel Algorithm</p>
+<p>Data Encryption Standard - DES</p>
+<p>Double DES</p>
+<p>Triple DEA (TDEA)</p>
+<p>AES</p>
+<h3 id="Modes-of-Operation"><a href="#Modes-of-Operation" class="headerlink" title="Modes of Operation"></a>Modes of Operation</h3><p>ECB</p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230921214203167.png" alt="image-20230921214203167"></p>
+<p>CBC</p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230921214135858.png" alt="image-20230921214135858"></p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230921214148220.png" alt="image-20230921214148220"></p>
+<p>CFB</p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230921214101061.png" alt="image-20230921214101061"></p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230921214119546.png" alt="image-20230921214119546"></p>
+<p>OFB</p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230921213945610.png" alt="image-20230921213945610"></p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230921214005777.png" alt="image-20230921214005777"></p>
+<p>CTR</p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230921213833492.png" alt="image-20230921213833492"></p>
+<p><img src="http://hengg.oss-cn-beijing.aliyuncs.com/img/image-20230921204432365.png" alt="image-20230921204432365"></p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="http://example.com">Heng Zhou</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="http://example.com/2023/09/21/Cryptography-and-Cyber-Security/">http://example.com/2023/09/21/Cryptography-and-Cyber-Security/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="http://example.com" target="_blank">Henggg's Blog</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/Cryptography-and-Cyber-Security/">Cryptography and Cyber Security</a></div><div class="post_share"><div class="social-share" data-image="https://ts1.cn.mm.bing.net/th/id/R-C.7c63f859ea24a88c5b69702db56e8674?rik=Q5OiN1BLvyYVqA&amp;riu=http%3a%2f%2fwww.xzylawyer.com%2fuploadfiles%2fpictures%2fnews%2f20191031132433_4580.jpg&amp;ehk=qXX%2fibNZ3DF%2f63VlgdS9upDOoCUb3TnK60bRcL5noM0%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/sharejs/dist/js/social-share.min.js" defer></script></div></div><nav class="pagination-post" id="pagination"><div class="next-post pull-full"><a href="/2023/09/15/Data-structure/" title="Data structure"><img class="cover" src="https://media.istockphoto.com/id/1473061182/zh/%E7%85%A7%E7%89%87/businessman-using-chat-bot-intelligence-ai-chat-with-ai-artificial-intelligence-developed-by.jpg?s=1024x1024&amp;w=is&amp;k=20&amp;c=1Ok7ZhNH4XVwmEdaYw7aajUzAreYdRUyfMD4F_OzD_A=" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">Data structure</div></div></a></div></nav></div></main><footer id="footer" style="background-image: url('https://ts1.cn.mm.bing.net/th/id/R-C.7c63f859ea24a88c5b69702db56e8674?rik=Q5OiN1BLvyYVqA&amp;riu=http%3a%2f%2fwww.xzylawyer.com%2fuploadfiles%2fpictures%2fnews%2f20191031132433_4580.jpg&amp;ehk=qXX%2fibNZ3DF%2f63VlgdS9upDOoCUb3TnK60bRcL5noM0%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0')"><div id="footer-wrap"><div class="copyright">&copy;2020 - 2023 By Heng Zhou</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div><div class="footer_custom_text">红雨漂泊泛起了回忆怎么潜</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="translateLink" type="button" title="简繁转换">繁</button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox/fancybox.umd.min.js"></script><div class="js-pjax"></div><script defer="defer" id="fluttering_ribbon" mobile="true" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/canvas-fluttering-ribbon.min.js"></script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/dist/activate-power-mode.min.js"></script><script>POWERMODE.colorful = true;
+POWERMODE.shake = true;
+POWERMODE.mobile = false;
+document.body.addEventListener('input', POWERMODE);
+</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
