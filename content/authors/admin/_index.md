@@ -36,7 +36,7 @@ education:
       institution: Beijing University of Posts and Telecommunicatons
       year: 2021-now
     - course: Visiting Student
-      institution: Westlake University CAIRI LAB
+      institution: Westlake University
       year: 2024.4-2024.8
 
 # Skills
