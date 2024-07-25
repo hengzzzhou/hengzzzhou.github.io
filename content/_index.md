@@ -77,21 +77,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Algorithm Intern
-          location: Beijing China
-          date_start: '2024-07-02'
-          date_end: '2024-08-15'
-          company_logo: frontis
-          mentor: Yuanchun Zheng
-          description: |2-
-              Responsibilities include:
-              * Leading Quantitative Evaluation of Creativity of LLMs
+        # - title: Algorithm Intern
+        #   location: Beijing China
+        #   date_start: '2024-07-02'
+        #   date_end: '2024-08-15'
+        #   company_logo: frontis
+        #   mentor: Yuanchun Zheng
+        #   description: |2-
+        #       Responsibilities include:
+        #       * Leading Quantitative Evaluation of Creativity of LLMs
         - title: Visiting Student in AI4BIO
           company: Westlake CAIRI Lab
           location: Hangzhou China
           date_start: '2024-04-05'
           date_end: '2024-08-10'
-          company_logo: westlake
+          #company_logo: westlake
           mentor: Jun Xia
           description: |2-
               Responsibilities include:
@@ -116,7 +116,7 @@ sections:
           company: Beijing University of Posts and Telecommunications
           company_url: 'https://bupt.edu.cn/'
           location: Beijing China
-          company_logo: bupt
+          #company_logo: bupt
           date_start: '2021-09-01'
           date_end: '2025-06-30'
           description: Internet of Things
