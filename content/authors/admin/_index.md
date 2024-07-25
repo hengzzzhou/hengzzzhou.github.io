@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yuchen Fan
+title: Heng Zhou
 
 # Full name (for SEO)
-first_name: Yuchen
-last_name: Fan
+first_name: Heng
+last_name: Zhou
 
 # Status emoji
 status:
@@ -22,22 +22,21 @@ organizations:
     url: https://bupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP and LLMs, especially evaluation of LLMs.
+bio: My research interests include AI4SCI, especially AI for Bio.
 
 # Interests to show in About widget
 interests:
+  - AI4SCI
   - NLP
-  - LLMs
-  - Evaluation
 
 # Education to show in About widget
 education:
   courses:
-    - course: B.E in Communication Engineering
+    - course: Internet of Things
       institution: Beijing University of Posts and Telecommunicatons
       year: 2021-now
     - course: Visiting Student
-      institution: Westlake University
+      institution: Westlake University CAIRI LAB
       year: 2024.4-2024.8
 
 # Skills
@@ -87,7 +86,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yuchenfan48@gmail.com
+    link: hengzzzhou@gmail.com
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -96,10 +95,10 @@ social:
 #      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=u75E9OsAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/yuchenfan48
+    link: https://github.com/hengzzzhou
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -117,11 +116,11 @@ social:
   #  link: uploads/transcript.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yuchenfan48@gmail.com'
+email: 'hengzzzhou@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am currently pursuing my undergraduate degree in at Beijing University of Posts and Telecommunications. I am interested in Artificial Intelligence, espeicially NLP and LLMs. I have several research experiences in Tsinghua University around LLMs and I am finding a **PhD** position. For further information or collaboration opportunities, feel free to reach out to me at yuchenfan48@gmail.com.
+I am currently pursuing my undergraduate degree in at Beijing University of Posts and Telecommunications. I am interested in Artificial Intelligence, espeicially AI4SCI. I have several research experiences in Tsinghua University and I am finding a **PhD** position. For further information or collaboration opportunities, feel free to reach out to me at hengzzzhou@gmail.com.
 {style="text-align: justify;"}
