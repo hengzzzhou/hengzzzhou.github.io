@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Beijing University of Posts and Telecommunications Undergraduate'
-    description: 'A website with academic information about Yuchen Fan'
+    description: 'A website with academic information about Heng Zhou'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/yuchenfan48/<repository>'
+    url: 'https://github.com/hengzzzhou/<repository>'
     content_dir: content
     branch: main
   avatar:
