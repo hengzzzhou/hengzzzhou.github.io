@@ -50,20 +50,21 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   - block: experience
     content:
       title: Experience
@@ -77,8 +78,6 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Algorithm Intern
-          company: Frontis.ai
-          company_url: 'https://frontis.ai/'
           location: Beijing China
           date_start: '2024-07-02'
           date_end: '2024-08-15'
@@ -87,34 +86,31 @@ sections:
           description: |2-
               Responsibilities include:
               * Leading Quantitative Evaluation of Creativity of LLMs
-        - title: Visiting Student in NLP
-          company: Westlake NLP Lab
-          company_url: 'https://westlake-nlp.github.io/'
+        - title: Visiting Student in AI4BIO
+          company: Westlake CAIRI Lab
           location: Hangzhou China
-          date_start: '2024-04-30'
+          date_start: '2024-04-05'
           date_end: '2024-08-10'
           company_logo: westlake
-          mentor: Cunxiang Wang
+          mentor: Jun Xia
           description: |2-
               Responsibilities include:
-              * Research about Long Form QA
+              * SpectraAI
         - title: AI Researcher
-          company:  Center for Collaborative & Conversational Intelligence, Tsinghua University
-          company_url: 'http://c3i.ee.tsinghua.edu.cn/'
+          company:  THU-LYJ-LAB, Tsinghua University
           location: Beijing China
-          date_start: '2023-11-10'
-          date_end: '2024-06-03'
-          company_logo: c3i
-          mentor: Gaochen Wu
-          description: Focusing on the Evaluation of LLMs and Long Context Generation.
-        - title: AI Researcher
-          company: Knowledge Engineering Group, Tsinghua University
-          company_url: 'https://keg.cs.tsinghua.edu.cn/'
-          location: Beijing China
-          date_start: '2022-10-15'
-          date_end: '2023-10-20'
-          company_logo: keg
-          mentor: Zijun Yao
+          date_start: '2023-07-01'
+          date_end: '2023-12-01'
+          mentor: Yubin Hu
+          description: 3D reconstruction
+        # - title: AI Researcher
+        #   company: Knowledge Engineering Group, Tsinghua University
+        #   company_url: 'https://keg.cs.tsinghua.edu.cn/'
+        #   location: Beijing China
+        #   date_start: '2022-10-15'
+        #   date_end: '2023-10-20'
+        #   company_logo: keg
+        #   mentor: Zijun Yao
           description: Focusing on the Information Extraction and Evaluation of LLMs.
         - title: Undergraduate
           company: Beijing University of Posts and Telecommunications
@@ -123,7 +119,7 @@ sections:
           company_logo: bupt
           date_start: '2021-09-01'
           date_end: '2025-06-30'
-          description: Communication Engineering Undergraduate
+          description: Internet of Things
     design:
       columns: '2'
   # - block: accomplishments
@@ -263,7 +259,7 @@ sections:
       text: |-
         If you want to contact me, free free to contact me at any time
       # Contact (add or remove contact options as necessary)
-      email: yuchenfan48@gmail.com
+      email: hengzzzhou@gmail.com
       # phone: 888 888 88 88
       # address:
       #   street: 450 Serra Mall
