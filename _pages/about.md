@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Beijing University of Post and Telecomunication
-- *2025.09 - 2030.06*, incoming phd ustc&pjlab. 
+- *2025.09 - 2030.06*, incoming phd ustc joint program with pjlab. 
 
 # 💬 Invited Talks
 - none
