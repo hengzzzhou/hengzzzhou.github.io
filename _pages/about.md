@@ -43,19 +43,22 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* 2023 National Scholarship (Top 1%)
+- *2023.01* First Prize in the 14th National College Student Mathematics Competition
+- *2023.10* BUPT Outstanding Student Award
+- *2023.05* Second Prize in the Mathematical Modeling Competition
+- *2023.05* Third Prize in the BUPT Physics Competition (Top 5%)
+- *2024.10* Bronze Medal in the BUPT Programming Competition
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06*, Beijing University of Post and Telecomunication
+- *2025.09 - 2030.06*, incoming phd ustc&pjlab. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
 - *2023.07-2023.11*, [THU-LYJ-LAB](https://github.com/THU-LYJ-Lab), THU.
 - *2024.03-2024.04*, [THUAIR](https://air.tsinghua.edu.cn), THU.
 - *2024.04-2024.07*, [westlake-cairi lab](https://www.westlake.edu.cn/faculty/stan-zq-li.html), westlake university.
-- *2024.10-now*, [pjlab](https://shlab.org.cn), beijing.
+- *2024.10-now*, [pjlab](https://www.shlab.org.cn/), beijing.
