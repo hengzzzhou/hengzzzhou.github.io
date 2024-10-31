@@ -24,7 +24,10 @@ My background includes experience in 3D reconstruction, computational biology, a
 ---
 
 # 🔥 News
-- *2022.02*: None
+- *2024.10*: I join pjlab as a research intern in Beijing!
+- *2024.07*: One papers are accepted by NIPS DB 2024!
+- *2023.10*: Won the national scholarship!
+
 
 # 📝 Publications
 
