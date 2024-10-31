@@ -17,50 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an intern in Shanghai Artificial Intelligence Laboratory now.
-I am working on multi_agent and swarm ai. 
-I will graduate from BUPT in 2025.07, and go USTC start my Phd. I am a student joint training by ustc and pjlab under the guidance of [Ouyang Wanli](https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN) and [Lei Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ)
-I have some experience on 3D reconstruction, computational biology and agent. My research interest includes Multi-Agent System, AI for Science. If you are interested about me, welcome contact with me.
+I am currently an intern at the Shanghai Artificial Intelligence Laboratory, where I focus on multi-agent systems and swarm AI. I will graduate from the Beijing University of Posts and Telecommunications (BUPT) in July 2025 and will commence my Ph.D. at the University of Science and Technology of China (USTC), as part of a joint training program between USTC and the Shanghai Artificial Intelligence Laboratory, under the guidance of [Prof. Wanli Ouyang](https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN) and [Prof. Lei Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ).
 
+My background includes experience in 3D reconstruction, computational biology, and agent-based systems. My research interests focus on Multi-Agent Systems and AI for scientific applications. If you’d like to connect, please feel free to reach out.
 
-
+---
 
 # 🔥 News
-- *2022.02*: none
+- *2022.02*: None
 
+# 📝 Publications
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ss3dm.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS DB 2024</div><img src='images/ss3dm.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset](https://arxiv.org/pdf/2410.21739)
 
 Yubin Hu, Kairui Wen, **Heng Zhou**, Xiaoyang Guo, Yongjin Liu
 
-- SS3DM: comprising precise Synthetic Street-view 3D Mesh models exported from the CARLA simulator
+- SS3DM comprises precise synthetic street-view 3D mesh models exported from the CARLA simulator.
 </div>
 </div>
-
 
 # 🎖 Honors and Awards
-- *2023.10* 2023 National Scholarship (Top 1%)
-- *2023.01* First Prize in the 14th National College Student Mathematics Competition
-- *2023.10* BUPT Outstanding Student Award
-- *2023.05* Second Prize in the Mathematical Modeling Competition
-- *2023.05* Third Prize in the BUPT Physics Competition (Top 5%)
-- *2024.10* Bronze Medal in the BUPT Programming Competition
+- *2023.10*: National Scholarship (Top 1%)
+- *2023.01*: First Prize, 14th National College Student Mathematics Competition
+- *2023.10*: BUPT Outstanding Student Award
+- *2023.05*: Second Prize, Mathematical Modeling Competition
+- *2023.05*: Third Prize, BUPT Physics Competition (Top 5%)
+- *2024.10*: Bronze Medal, BUPT Programming Competition
 
-# 📖 Educations
-- *2021.09 - 2025.06*, Beijing University of Post and Telecomunication
-- *2025.09 - 2030.06*, incoming phd ustc joint program with pjlab. 
+# 📖 Education
+- *2021.09 - 2025.06*: Bachelor’s, Beijing University of Posts and Telecommunications
+- *2025.09 - 2030.06*: Ph.D. candidate, USTC-PJLab joint program
 
 # 💬 Invited Talks
-- none
-
+- None
 
 # 💻 Internships
-- *2023.07-2023.11*, [THU-LYJ-LAB](https://github.com/THU-LYJ-Lab), THU.
-- *2024.03-2024.04*, [THUAIR](https://air.tsinghua.edu.cn), THU.
-- *2024.04-2024.07*, [westlake-cairi lab](https://www.westlake.edu.cn/faculty/stan-zq-li.html), westlake university.
-- *2024.10-now*, [pjlab](https://www.shlab.org.cn/), beijing.
+- *2023.07 - 2023.11*: [THU-LYJ-LAB](https://github.com/THU-LYJ-Lab), Tsinghua University
+- *2024.03 - 2024.04*: [THUAIR](https://air.tsinghua.edu.cn), Tsinghua University
+- *2024.04 - 2024.07*: [Westlake-CAIRI Lab](https://www.westlake.edu.cn/faculty/stan-zq-li.html), Westlake University
+- *2024.10 - Present*: [PJLab](https://www.shlab.org.cn/), Beijing
+
