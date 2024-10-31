@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "heng zhou's homepage"
+title                    : "HENG"
 description              : "ustc joint program with pjlab phd 0"
 repository               : "hengzzzhou/hengzzzhou.github.io"
 google_scholar_stats_use_cdn : false
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "hengzzzhou"
   google_plus      :
   keybase          :
   instagram        :
@@ -49,7 +49,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "1264297624"
   tumblr           :
   twitter          : 
   vine             :
