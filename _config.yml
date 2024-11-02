@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "HENG"
-description              : "ustc joint program with pjlab phd 0"
+title                    : "Heng Zhou（周恒）"
+description              : "Ph.D. candidate, USTC-PJLab joint program"
 repository               : "hengzzzhou/hengzzzhou.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Heng Zhou"
+  name             : "Heng Zhou（周恒）"
   avatar           : "images/259a0482e29809b611a212801d51a49.jpg"
   bio              : "zhouheng@pjlab.org.cn"
   location         : "Beijing, China"
