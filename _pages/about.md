@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 💬 About Me
 I am currently an intern at the Shanghai Artificial Intelligence Laboratory, where I focus on multi-agent systems and swarm AI. I will graduate from the Beijing University of Posts and Telecommunications (BUPT) in July 2025 and will commence my Ph.D. at the University of Science and Technology of China (USTC), as part of a joint training program between USTC and the Shanghai Artificial Intelligence Laboratory, under the guidance of [Prof. Wanli Ouyang](https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN) and [Prof. Lei Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ).
 
 My background includes experience in 3D reconstruction, computational biology, and agent-based systems. My research interests focus on Multi-Agent Systems and AI for scientific applications. If you’d like to connect, please feel free to reach out.
@@ -54,8 +54,6 @@ Yubin Hu, Kairui Wen, **Heng Zhou**, Xiaoyang Guo, Yongjin Liu
 - *2021.09 - 2025.06*: Bachelor’s, Beijing University of Posts and Telecommunications
 - *2025.09 - 2030.06*: Ph.D. candidate, USTC-PJLab joint program
 
-# 💬 Invited Talks
-- None
 
 # 💻 Internships
 - *2023.07 - 2023.11*: [THU-LYJ-LAB](https://github.com/THU-LYJ-Lab), Tsinghua University
