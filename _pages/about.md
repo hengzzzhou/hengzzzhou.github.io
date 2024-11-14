@@ -19,7 +19,7 @@ redirect_from:
 # 💬 About Me
 I am currently an intern at the Shanghai Artificial Intelligence Laboratory, where I focus on multi-agent systems and swarm AI. I will graduate from the Beijing University of Posts and Telecommunications (BUPT) in July 2025 and will commence my Ph.D. at the University of Science and Technology of China (USTC), as part of a joint training program between USTC and the Shanghai Artificial Intelligence Laboratory, under the guidance of [Prof. Wanli Ouyang](https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN) and [Prof. Lei Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ).
 
-My background includes experience in 3D reconstruction, computational biology, and agent-based systems. My research interests focus on Multi-Agent Systems and AI for scientific applications. If you’d like to connect, please feel free to reach out.
+My background includes experience in 3D reconstruction, computational biology, and agent-based systems. My research interests focus on Multi-Agent, Reinforcement Learning and AI for Science. If you’d like to connect, please feel free to reach out.
 
 ---
 
@@ -43,12 +43,13 @@ Yubin Hu, Kairui Wen, **Heng Zhou**, Xiaoyang Guo, Yongjin Liu
 </div>
 
 # 🎖 Honors and Awards
+- *2024.10*: Bronze Medal, BUPT Programming Competition
 - *2023.10*: National Scholarship (Top 1%)
-- *2023.01*: First Prize, 14th National College Student Mathematics Competition
 - *2023.10*: BUPT Outstanding Student Award
 - *2023.05*: Second Prize, Mathematical Modeling Competition
 - *2023.05*: Third Prize, BUPT Physics Competition (Top 5%)
-- *2024.10*: Bronze Medal, BUPT Programming Competition
+- *2023.01*: First Prize, 14th National College Student Mathematics Competition
+
 
 # 📖 Education
 - *2021.09 - 2025.06*: Bachelor’s, Beijing University of Posts and Telecommunications
