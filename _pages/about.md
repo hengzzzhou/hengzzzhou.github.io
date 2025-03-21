@@ -19,7 +19,7 @@ redirect_from:
 # 💬 About Me
 I am currently an intern at the Shanghai Artificial Intelligence Laboratory, where I focus on multi-agent systems and swarm AI. I will graduate from the Beijing University of Posts and Telecommunications (BUPT) in July 2025 and will commence my Ph.D. at the University of Science and Technology of China (USTC), as part of a joint training program between USTC and the Shanghai Artificial Intelligence Laboratory, under the guidance of [Prof. Wanli Ouyang](https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN) and [Prof. Lei Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ).
 
-My background includes experience in 3D reconstruction, computational biology, and agent-based systems. My research interests focus on Multi-Agent, Reinforcement Learning and AI for Science. If you’d like to connect, please feel free to reach out.
+My research interests focus on Multi-Agent, Reinforcement Learning and LLM alignment. If you’d like to connect, please feel free to reach out.
 
 ---
 
@@ -39,6 +39,17 @@ My background includes experience in 3D reconstruction, computational biology, a
 Yubin Hu, Kairui Wen, **Heng Zhou**, Xiaoyang Guo, Yongjin Liu
 
 - SS3DM comprises precise synthetic street-view 3D mesh models exported from the CARLA simulator.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/ss3dm.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](https://arxiv.org/abs/2503.02390)
+
+**Heng Zhou**, Hejia Geng, Xiangyuan Xue, Zhenfei Yin, Lei Bai
+
+- ReSo, a reward-driven, self-organizing collaboration system that enables efficient collaboration through dynamic optimization and agent selection
 </div>
 </div>
 
