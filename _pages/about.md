@@ -42,7 +42,7 @@ Yubin Hu, Kairui Wen, **Heng Zhou**, Xiaoyang Guo, Yongjin Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/ss3dm.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/pipeline.pdf' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](https://arxiv.org/abs/2503.02390)
