@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 💬 About Me
-I am currently an intern at the Shanghai Artificial Intelligence Laboratory, where I focus on multi-agent systems and swarm AI. I will graduate from the Beijing University of Posts and Telecommunications (BUPT) in July 2025 and will commence my Ph.D. at the University of Science and Technology of China (USTC), as part of a joint training program between USTC and the Shanghai Artificial Intelligence Laboratory, under the guidance of [Prof. Wanli Ouyang](https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN) and [Prof. Lei Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ).
+I am currently an intern at the Shanghai Artificial Intelligence Laboratory, where I focus on Multi-Agent System, Reinforcement Learning and LLM alignment. I will graduate from the Beijing University of Posts and Telecommunications (BUPT) in July 2025 and will commence my Ph.D. at the University of Science and Technology of China (USTC), as part of a joint training program between USTC and the Shanghai Artificial Intelligence Laboratory, under the guidance of [Prof. Wanli Ouyang](https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN) and [Prof. Lei Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ).
 
-My research interests focus on Multi-Agent, Reinforcement Learning and LLM alignment. 
 
 ---
 
