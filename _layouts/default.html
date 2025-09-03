@@ -46,11 +46,6 @@ layout: compress
   @media (max-width:480px){ .wx-modal img{max-width:86vw;max-height:70vh} }
 </style>
 
-<button class="wx-btn" id="wxOpenBtn" aria-haspopup="dialog" aria-controls="wxDialog">
-  <!-- 也可以替换为你自己的图标 -->
-  <span>微信</span>
-</button>
-
 <div class="wx-modal-backdrop" id="wxBackdrop" role="dialog" aria-modal="true" aria-labelledby="wxTitle">
   <div class="wx-modal" id="wxDialog">
     <img src="{{ '/images/WechatIMG302.jpg' | relative_url }}" alt="微信二维码" />
