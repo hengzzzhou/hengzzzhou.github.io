@@ -41,7 +41,7 @@ Yubin Hu, Kairui Wen, **Heng Zhou**, Xiaoyang Guo, Yongjin Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/ReSo.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2026</div><img src='images/ReSo.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks](https://arxiv.org/abs/2503.02390)
@@ -52,12 +52,13 @@ Yubin Hu, Kairui Wen, **Heng Zhou**, Xiaoyang Guo, Yongjin Liu
 </div>
 </div>
 
+
+
 # 🎖 Honors and Awards
-- *2024.10*: Bronze Medal, BUPT Programming Competition
-- *2023.10*: National Scholarship (Top 1%)
+- *2025.06*: Beijing Merit Student 
+- *2023.10*: National Scholarship
 - *2023.10*: BUPT Outstanding Student Award
 - *2023.05*: Second Prize, Mathematical Modeling Competition
-- *2023.05*: Third Prize, BUPT Physics Competition (Top 5%)
 - *2023.01*: First Prize, 14th National College Student Mathematics Competition
 
 
