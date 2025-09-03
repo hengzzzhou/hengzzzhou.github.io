@@ -10,5 +10,9 @@
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
   {% endif %}
+    <button class="wx-btn" id="wxOpenBtn" aria-haspopup="dialog" aria-controls="wxDialog">
+  <!-- 也可以替换为你自己的图标 -->
+  <span>WeChat</span>
+</button>
   </div>
 {% endif %}
