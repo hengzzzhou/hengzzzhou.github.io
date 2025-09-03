@@ -28,6 +28,51 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+<!-- 微信按钮 + 弹窗 -->
+<style>
+  .wx-btn{
+    display:inline-flex;align-items:center;gap:.5rem;
+    padding:.5rem .9rem;border:1px solid #e5e7eb;border-radius:9999px;
+    background:#fff;cursor:pointer;font-size:14px;line-height:1.2;
+  }
+  .wx-btn:hover{background:#f7f7f7}
+  .wx-modal-backdrop{
+    position:fixed;inset:0;background:rgba(0,0,0,.55);
+    display:none;align-items:center;justify-content:center;z-index:9999;
+  }
+  .wx-modal{background:#fff;border-radius:12px;max-width:92vw;max-height:92vh;padding:12px;box-shadow:0 10px 30px rgba(0,0,0,.25)}
+  .wx-modal img{display:block;max-width:80vw;max-height:80vh;height:auto;width:auto}
+  .wx-close{position:absolute;top:14px;right:18px;font-size:20px;color:#fff;cursor:pointer}
+  @media (max-width:480px){ .wx-modal img{max-width:86vw;max-height:70vh} }
+</style>
+
+<button class="wx-btn" id="wxOpenBtn" aria-haspopup="dialog" aria-controls="wxDialog">
+  <!-- 也可以替换为你自己的图标 -->
+  <span>微信</span>
+</button>
+
+<div class="wx-modal-backdrop" id="wxBackdrop" role="dialog" aria-modal="true" aria-labelledby="wxTitle">
+  <div class="wx-modal" id="wxDialog">
+    <img src="{{ '/images/WechatIMG302.jpg' | relative_url }}" alt="微信二维码" />
+  </div>
+  <span class="wx-close" id="wxCloseBtn" aria-label="关闭">×</span>
+</div>
+
+<script>
+  (function(){
+    const openBtn = document.getElementById('wxOpenBtn');
+    const backdrop = document.getElementById('wxBackdrop');
+    const closeBtn = document.getElementById('wxCloseBtn');
+
+    function openModal(){ backdrop.style.display='flex'; document.body.style.overflow='hidden'; }
+    function closeModal(){ backdrop.style.display='none'; document.body.style.overflow=''; }
+
+    openBtn.addEventListener('click', openModal);
+    backdrop.addEventListener('click', (e)=>{ if(e.target===backdrop) closeModal(); });
+    closeBtn.addEventListener('click', closeModal);
+    document.addEventListener('keydown', (e)=>{ if(e.key==='Escape') closeModal(); });
+  })();
+</script>
 
   </body>
 </html>
