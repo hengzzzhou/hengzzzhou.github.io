@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 💬 About Me
-I am currently an intern at the Shanghai Artificial Intelligence Laboratory, where I focus on Multi-Agent System, Reinforcement Learning and LLM alignment. I will graduate from the Beijing University of Posts and Telecommunications (BUPT) in July 2025 and will commence my Ph.D. at the University of Science and Technology of China (USTC), as part of a joint training program between USTC and the Shanghai Artificial Intelligence Laboratory, under the guidance of [Prof. Wanli Ouyang](https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN) and [Prof. Lei Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ).
+I am currently an intern at the Shanghai Artificial Intelligence Laboratory, where I focus on Multi-Agent System, Reinforcement Learning and LLM alignment. I am a Ph.D. at the University of Science and Technology of China (USTC), as part of a joint training program between USTC and the Shanghai Artificial Intelligence Laboratory, under the guidance of [Prof. Wanli Ouyang](https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN) and [Prof. Lei Bai](https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ).
 
 
 ---
 
 # 🔥 News
-- *2024.10*: I join pjlab as a research intern in Beijing!
-- *2024.07*: One papers are accepted by NIPS DB 2024!
+- *2025.09*: One papers are accepted by EMNLP2025!
+- *2024.07*: One papers are accepted by NIPS2024!
 - *2023.10*: Won the national scholarship!
 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS DB 2024</div><img src='images/ss3dm.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS2024</div><img src='images/ss3dm.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset](https://arxiv.org/pdf/2410.21739)
@@ -57,7 +57,6 @@ Yubin Hu, Kairui Wen, **Heng Zhou**, Xiaoyang Guo, Yongjin Liu
 # 🎖 Honors and Awards
 - *2025.06*: Beijing Merit Student 
 - *2023.10*: National Scholarship
-- *2023.10*: BUPT Outstanding Student Award
 - *2023.05*: Second Prize, Mathematical Modeling Competition
 - *2023.01*: First Prize, 14th National College Student Mathematics Competition
 
