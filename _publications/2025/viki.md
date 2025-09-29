@@ -14,8 +14,8 @@ cover:          /assets/images/covers/viki.png
 authors: 
 - Li Kang*
 - Xiufeng Song*
-- Heng Zhou*
-- <b><b>Yiran Qin#</b></b>
+- <b><b>Heng Zhou*</b></b>
+- Yiran Qin#
 - Jie Yang
 - Xiaohong Liu
 - Philip Torr

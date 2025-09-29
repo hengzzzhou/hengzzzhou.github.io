@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Heng Zhou"
 
 positions:
-- logo: /assets/images/badges/cuhk.png  # Logo is optional
+- logo: /assets/images/badges/ustc.png  # Logo is optional
   name: USTC
 - logo: /assets/images/badges/shanghailab.png
   name: Shanghai AI Laboratory
