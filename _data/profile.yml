@@ -23,25 +23,34 @@ wechat_prompt: >-
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  hi i am hengzhou
+    I am currently an intern at the Shanghai Artificial Intelligence Laboratory, focusing on multi-agent systems, reinforcement learning, and LLM alignment.
+    I am a Ph.D. student at the University of Science and Technology of China (USTC) in a joint training program with the Shanghai AI Lab, advised by
+    <a href="https://scholar.google.com.hk/citations?user=pw_0Z_UAAAAJ&hl=zh-CN">Prof. Wanli Ouyang</a> and
+    <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=sakOO04AAAAJ">Prof. Lei Bai</a>.
   </p>
+  <p>
+    Research interests: machine learning, multimodal learning, AI agents, robotics.
+  </p>
+
 
 portrait_url: /assets/images/photos/hengzhou.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: USTC & pjlab
+- name: USTC & PJLAB
   logo: /assets/images/badges/ustc.png
-  position: Ph.D. Student, advised by Prof. Ouyang Wanli and Prof. LEI BAI
+  position: Ph.D. Student, advised by Prof. Wanli Ouyang and Prof. LEI BAI
   date: Sep. 2025 - present
 
 experience:
 - name: Shanghai AI Laboratory
   logo: /assets/images/badges/shanghailab.png
   position: Research Intern, advised by Prof. LEI BAI
-  date: 10. 2024 - present
+  date: Oct. 2024 - present
 
 awards:
+- name: Beijing Merit Student 
+  date: 2025.06
 - name: National Scholarship
-  date: 2023
+  date: 2023.10
