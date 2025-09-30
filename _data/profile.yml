@@ -33,9 +33,9 @@ short_bio: >-
   </p>
 
 
-portrait_url: /assets/images/photos/hengzhou.jpg
+portrait_url: /assets/images/photos/hengzhou.png
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Photographed at the Summer Palace in Beijing in 2023
 
 education:
 - name: USTC & PJLAB
@@ -51,6 +51,6 @@ experience:
 
 awards:
 - name: Beijing Merit Student 
-  date: 2025.06
+  date: 2025
 - name: National Scholarship
-  date: 2023.10
+  date: 2023
