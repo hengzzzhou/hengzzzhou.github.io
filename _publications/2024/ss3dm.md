@@ -1,7 +1,7 @@
 ---
 title:          "SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset"
 date:           2024-10-19 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Annual Conference on Neural Information Processing Systems (NeurIPS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
